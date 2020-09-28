@@ -4,6 +4,9 @@ authors: "Javad Rahimipour Anaraki, Silvia Orlandi and Tom Chau"
 date: '22/09/20'
 ---
 
+## Download
+Please visit [this link](https://hollandbloorview.flintbox.com/?embed=true#technologies/4996ecf2-3623-4dc1-a6e2-b54f302af48c) to download the code.
+
 ## Notice
 The code `mainCNN.m` is available now, and a link to the paper on arXiv is provided down below. If you need more details and explanation about the algorithm, please contact [Javad Rahimipour Anaraki](http://individual.utoronto.ca/jrahimipour/).
 
